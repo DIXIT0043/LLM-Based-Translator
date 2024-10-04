@@ -30,10 +30,10 @@ pip install -r requirements.txt
 Set up environment variables: Create a .env file in the root directory and add your Groq API key:
 ```
 ```bash
-
 GROQ_API_KEY=your_groq_api_key_here
-Run the app: Use Streamlit to launch the application.
 ```
+Run the app: Use Streamlit to launch the application.
+
 ```bash
 streamlit run app.py
 ```
