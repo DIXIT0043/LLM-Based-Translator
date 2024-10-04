@@ -1,5 +1,7 @@
 # LLM Based Translator
 
+Link : https://llm-based-translator.streamlit.app/
+
 This application is a simple Language Translation tool built using LangChain, Groq, and Streamlit. It allows users to input text and choose a target language to get an instant translation using an LLM (Large Language Model).
 
 ## Features
