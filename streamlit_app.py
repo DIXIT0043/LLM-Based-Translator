@@ -41,6 +41,6 @@ if st.button('Translate'):
             except Exception as obj:
                 st.write('Error {obj}')
     else:
-        st.write(('⚠️ Please provide both text and language')
+        st.write('⚠️ Please provide both text and language')
 else:
     st.write('⚠️ Please Write both text and language')
